@@ -19,6 +19,7 @@ After analysis of the job postings dataset collected from LinkedIn and JobStreet
 2. In-Demand Job Skills: Analytical skills, communication, and problem-solving are consistently sought across various job titles and industries. Technical skills such as Microsoft Excel, data analysis, and specific software expertise are prominently featured.
 3. Explore Regional Employment Dynamics: Analyze variations in job opportunities across different cities and states to provide valuable regional insights. Main locations include Kuala Lumpur, Selangor, Penang and Johor as prominent cities with jobs.
 
+
 # Data Analysis
 
 -Frequency Distribution:
