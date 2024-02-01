@@ -1,4 +1,4 @@
-# job-trend-analysis
+# Job-Trend-Analysis
 
 List of jobs posted using Linkedin & Jobstreet from 3 months.
 
