@@ -21,21 +21,21 @@ After analysis of the job postings dataset collected from LinkedIn and JobStreet
 
 # Data Analysis
 
-Frequency Distribution:
+-Frequency Distribution:
 
 Analyze the frequency distribution of categorical variables to understand the distribution of different categories.
 Example: BAR CHART showing the distribution of job industries.
 
-Pie Charts:
+-Pie Charts:
 
 Display the proportion of different Industries using pie charts.
 Example: Use a PIE CHART to show the proportion of job skills.
 
-Heatmaps:
+-Heatmaps:
 
 Create a heatmap to visualize the correlation or relationships between multiple categorical variables.
 Example: Display a heatmap showing the correlation between different job skills.
 
-Word Clouds:
+-Word Clouds:
 
 Generate word clouds to visually represent the most frequently occurring words in job skills.
