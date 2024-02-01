@@ -18,7 +18,7 @@ After analysis of the job postings dataset collected from LinkedIn and JobStreet
 
 # Data Analysis
 
--Frequency Distribution:
+-Frequency Distribution: 
 
 Analyze the frequency distribution of categorical variables to understand the distribution of different categories.
 Example: BAR CHART showing the distribution of job industries.
