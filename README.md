@@ -28,11 +28,6 @@ Example: BAR CHART showing the distribution of job industries.
 Display the proportion of different Industries using pie charts.
 Example: Use a PIE CHART to show the proportion of job skills.
 
--Heatmaps:
-
-Create a HEATMAP to visualize the correlation or relationships between multiple categorical variables.
-Example: Display a heatmap showing the correlation between different job skills.
-
 -Word Clouds:
 
 Generate WORDCLOUD to visually represent the most frequently occurring words in job skills.
@@ -41,8 +36,5 @@ Generate WORDCLOUD to visually represent the most frequently occurring words in 
 
 Use TABLEAU to generate maps and frequency of job postings based on location in Malaysia.
 
--Tree Map
-
-Use TABLEAU to visualize what job skills are most prominent based on each industry.
 
 
