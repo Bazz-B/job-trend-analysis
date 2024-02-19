@@ -7,6 +7,7 @@ List of jobs posted using Linkedin & Jobstreet from 3 months.
 1. Identify Key Job Skills: Pinpoint the most demanding skills among entry-level positions.
 2. Explore Industry Trends: Examine industries actively seeking entry-level professionals and understand their preferences.
 3. Highlight Geographical Hotspots: Uncover regions with abundant job opportunities for entry-level roles.
+4. Forecast job postings over time using SARIMAX and ARIMA model
 
 # Summary of Analysis:
 After analysis of the job postings dataset collected from LinkedIn and JobStreet, several key insights have emerged:
@@ -35,6 +36,10 @@ Generate WORDCLOUD to visually represent the most frequently occurring words in 
 -MAPS:
 
 Use TABLEAU to generate maps and frequency of job postings based on location in Malaysia.
+
+-SARIMAX MODEL & ARIMA MODEL
+
+To make predictions based on patterns from the data collected. A conclusion shall be made based on the value of Mean Absolute Error (MAE) and Mean Squared Error (MSE). 
 
 
 
