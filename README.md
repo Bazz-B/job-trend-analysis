@@ -37,7 +37,7 @@ Generate WORDCLOUD to visually represent the most frequently occurring words in 
 
 Use TABLEAU to generate maps and frequency of job postings based on location in Malaysia.
 
--SARIMAX MODEL & ARIMA MODEL
+-SARIMA MODEL & ARIMA MODEL
 
 To make predictions based on patterns from the data collected. A conclusion shall be made based on the value of Mean Absolute Error (MAE) and Mean Squared Error (MSE). 
 
