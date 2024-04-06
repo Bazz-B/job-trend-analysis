@@ -4,10 +4,10 @@ List of jobs posted using Linkedin & Jobstreet from 3 months.
 
 # Objective:
 
-1. Identify Key Job Skills: Pinpoint the most demanding skills among entry-level positions.
-2. Explore Industry Trends: Examine industries actively seeking entry-level professionals and understand their preferences.
-3. Highlight Geographical Hotspots: Uncover regions with abundant job opportunities for entry-level roles.
-4. Forecast job postings over time using SARIMAX and ARIMA model
+1. Support New Professionals: Provide entry-level workers with insights based on data to help them make decisions in today's job market.
+2. Highlight In-Demand Skills: Identify the skills that are in high demand across various industries and clarify which ones professionals should pay attention to.
+3. Understand Job Trends by Location: Look into the differences in job opportunities among various cities and states, providing important insights about different regions.
+4. Forecasting Job Postings: Predict how job postings will change over time using ARIMA Models and SARIMA Models.
 
 # Summary of Analysis:
 After analysis of the job postings dataset collected from LinkedIn and JobStreet, several key insights have emerged:
@@ -19,25 +19,23 @@ After analysis of the job postings dataset collected from LinkedIn and JobStreet
 
 # Data Analysis
 
--Frequency Distribution: 
+- Histogram: 
 
-Analyze the frequency distribution of categorical variables to understand the distribution of different categories.
-Example: BAR CHART showing the distribution of job industries.
+Histogram bar of job postings that are distributed over the three months based on the dataset collected.
 
--Pie Charts:
+- Word Clouds:
 
-Display the proportion of different Industries using pie charts.
-Example: Use a PIE CHART to show the proportion of job skills.
+To showcase the most frequently mentioned words in job skills. Gives us a glance into the job skills that are frequently highlighted in job postings.
 
--Word Clouds:
+- Bar Chart:
+  
+Illustrating the top five skills, categorized by different industries. Unlike the Word Cloud, this chart specifically breaks down the most crucial skills based on industry, providing a clearer understanding of the skill requirements in each sector.
 
-Generate WORDCLOUD to visually represent the most frequently occurring words in job skills.
-
--MAPS:
+- MAPS:
 
 Use TABLEAU to generate maps and frequency of job postings based on location in Malaysia.
 
--SARIMA MODEL & ARIMA MODEL
+- ARIMA Model & SARIMA Model
 
 To make predictions based on patterns from the data collected. A conclusion shall be made based on the value of Mean Absolute Error (MAE) and Mean Squared Error (MSE). 
 
